@@ -1,2 +1,6 @@
-TEST
-retest
+# Projet Test pour Jenkins Trigger
+
+Ce projet est destiné à servir de projet de test pour le déclenchement automatique des pipelines Jenkins à l'aide de webhooks ou d'autres mécanismes de déclenchement.
+Objectif
+
+L'objectif principal de ce projet est de vérifier si les mécanismes de déclenchement de Jenkins fonctionnent correctement lorsqu'un changement est détecté dans ce référentiel.
